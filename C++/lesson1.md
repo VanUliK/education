@@ -1,0 +1,5 @@
+* [Урок 1.1 Зачем нужен С++](https://youtu.be/MF621ieoYV8)
+* [Урок 1.2 Средства разработки на С++](https://youtu.be/Fyb1VViDHkg)
+* [Урок 1.3 Как работает компилируемый язык](https://youtu.be/s0Ui5ipHawM)
+* [Урок 1.4 Этапы трансляции программы](https://youtu.be/qrqRHHgOmco)
+* [Урок 1.5 Как работает сценарий сборки](https://youtu.be/9Y44oG3FodQ)
