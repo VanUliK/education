@@ -2,3 +2,4 @@
 * [урок 1.2 Основы реляционных баз данных](https://youtu.be/VerrRp_dJrE)
 * [урок 1.3 MySQL и клиенты](https://youtu.be/PTIpf_UFU5k)
 * [урок 1.4 Управление базами данных](https://youtu.be/JlWxdRmKvXQ)
+* [Материалы лекции](https://drive.google.com/drive/folders/1yBYk99goSU6T_ibXE0pkLHlW5r9JN760?usp=sharing)
