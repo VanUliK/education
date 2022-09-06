@@ -1,0 +1,1 @@
+* [Урок 2. Bubble: Знакомство с платформой](https://youtu.be/MmtKq4WiIUM)
