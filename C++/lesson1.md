@@ -6,3 +6,9 @@
 * [Урок 1.4 Этапы трансляции программы](https://youtu.be/qrqRHHgOmco)
 * [Урок 1.5 Как работает сценарий сборки](https://youtu.be/9Y44oG3FodQ)
 
+* [Урок 2.1 - Имена, типы и переменные](https://youtu.be/-gK9zHA-eSw)
+* [Урок 2.2 - Переменная и представление числа](https://youtu.be/ZKL5RTTyaYw)
+* [Урок 2.3 - Вычислимость](https://youtu.be/D03-f0r68Sc)
+* [Урок 2.4 - Функция. Понятие и смысл](https://youtu.be/zv4vfRR2byU)
+* [Урок 2.5 - Функции и их аргументы](https://youtu.be/_pM3Nh6S164)
+* [Урок 2.6 - Простые массивы](https://youtu.be/DaV7BgHYTjA)
