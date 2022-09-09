@@ -2,3 +2,6 @@
 * [Урок 3. Работа с документацией](https://youtu.be/ZcsQeghuZFc)
 * [Урок 4. Создание чек-листов. Теория](https://youtu.be/cfFA9W5ot1w)
 * [Урок 5. Создание чек-листов. Практика](https://youtu.be/ooVhgSXCaJM)
+* [Урок 6. Создание тест-кейсов. Теория](https://youtu.be/o1m8gAWQLNA)
+
+

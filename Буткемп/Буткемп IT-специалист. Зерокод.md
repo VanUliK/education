@@ -2,3 +2,7 @@
 * [Урок 3. Bubble: Создаем страницу регистрации 1](https://youtu.be/3x3vXarpxYc)
 * [Урок 4. Bubble: Создаем страницу регистрации 2](https://youtu.be/e7ORVP1JVHs)
 * [Урок 5. Bubble: Введение в API](https://youtu.be/czYFE1np0cU)
+* [Урок 6. Bubble: Пишем страницу для формирования заявок](https://youtu.be/qzvf1kC8lqs)
+
+
+
