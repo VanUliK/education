@@ -17,3 +17,5 @@
 * [«Удовольствие от х», Строгац, П.](https://drive.google.com/file/d/13y6Mb_Bsd4iT8YyRQFCw5vvKlrysANn0/view?usp=sharing)
 * [«Программирование: теоремы и задачи», А. Шень](https://drive.google.com/file/d/1hN53rcWowEIBfPsvqQV9W5_fWU3Xu2dL/view?usp=sharing)
 * [«Математическая логика и теория алгоритмов для программистов», Гринченков Дмитрий Валерьевич, Потоцкий Сергей Иванович](https://drive.google.com/file/d/1MRIZK2Lj5BLXgMMQM1W782PZFqY_7Yai/view?usp=sharing)
+
+https://acmp.ru/

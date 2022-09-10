@@ -12,3 +12,7 @@
 
 
 https://webdesign-master.ru/blog/html-css/2.html
+https://codepen.io
+https://jsbin.com/
+https://www.figma.com/file/P3xwHrKiAjdMW6E0Qz7OrE/Intensive-(Copy)-(Copy)
+

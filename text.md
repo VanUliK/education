@@ -5,3 +5,6 @@
 [Быстрый старт. Аналитик](https://profidigital.gosuslugi.ru/courses/18599)
 
 https://profidigital.gosuslugi.ru/?direction=prog&organization=1308
+
+
+[Домашняя работа (канал в telegram)](https://t.me/+_q0-YJrrVlhhY2Uy)
