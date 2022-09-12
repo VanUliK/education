@@ -4,3 +4,4 @@
 * [Урок 5. Bubble: Введение в API](https://youtu.be/czYFE1np0cU)
 * [Урок 6. Bubble: Пишем страницу для формирования заявок](https://youtu.be/qzvf1kC8lqs)
 * [Урок 7. Bubble: Пишем дашборд для водителей и страницу с отображением заявки](https://youtu.be/Sp48DbLd8hc)
+* [Урок 8. Bubble: Страница отображения заявки. Продолжение](https://youtu.be/UVcnH49-lDM)

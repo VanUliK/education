@@ -4,6 +4,7 @@
 * [Урок 5. Что такое Figma и как с ней работать?](https://youtu.be/Kgb7si_87bo)
 * [Урок 6. Основы позиционирования](https://youtu.be/l5bRd75X7L8)
 * [Урок 7. Разбор позиционирования на странице и технологии Display: grid](https://youtu.be/FkDZznRB6p8)
+* [Урок 8. Основы адаптивности](https://youtu.be/Q1hLePTauCk)
 
 
 
