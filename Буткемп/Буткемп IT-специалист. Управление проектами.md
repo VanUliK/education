@@ -5,3 +5,4 @@
 * [Урок 6. Инициация и планирование: План проекта /Project Plan](https://youtu.be/5MP-qhMz2wU)
 * [Урок 7. Определение и карта взаимодействия со стейкхолдерами](https://youtu.be/ZTU5y3oUPAE)
 * [Урок 8. Инициация и планирование: Паспорт проекта](https://youtu.be/ugt5EevWcss)
+* [Урок 9. SCRUM: ч. 1 - Основные элементы](https://youtu.be/F63dLV-PMfg)
