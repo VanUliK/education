@@ -8,5 +8,5 @@
 * [Урок 8. Создание баг-репортов. Баг-трекинговые системы](https://youtu.be/wFCp3MhwqSo)
 * [Урок 9. Создание баг-репортов. Практика](https://youtu.be/02NnHT5wyqo)
 * [Урок 10. Тестирование веб-приложений](https://youtu.be/Fa7rD1gtgUU)
-* [Урок 11. DevTools]()
+* [Урок 11. DevTools](https://youtu.be/OoqHPNVKoaY)
 * [Урок 12. Тестирование Rest API]()
