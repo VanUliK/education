@@ -8,3 +8,5 @@
 * [Урок 8. Bubble: Страница отображения заявки. Продолжение](https://youtu.be/UVcnH49-lDM)
 * [Урок 9. Bubble: Страница отображения заявки. Продолжение](https://youtu.be/6ukdijR5Ur8)
 * [Урок 10. Tilda и Integromat: Знакомство с инструментом](https://youtu.be/yI5DupkgegU)
+* [Урок 11. Tilda и Integromat: Подключаем Collabza](https://youtu.be/P5Slr2LpF40)
+* [Урок 12. Tilda и Integromat: Подключаем Integromat/Make]()

@@ -8,7 +8,8 @@
 * [Урок 8. Основы адаптивности](https://youtu.be/Q1hLePTauCk)
 * [Урок 9. Адаптивные единицы измерения. Адаптивные возможности Flexbox и Grid](https://youtu.be/TI3pLYUycKo)
 * [Урок 10. Создание адаптивного гамбургер-меню на сайте на чистом HTML/CSS](https://youtu.be/4JhAzVU9T8g)
-
+* [Урок 11. Основы Bootstrap: что такое фреймворк и как с ним работать. Создание простой страницы с помощью Bootstrap](https://youtu.be/XqDQwPPXikk)
+* [Урок 12. Как добавить анимацию на сайт и как с ней работать. Как добавить сложный эффект наведения]()
 
 
 
@@ -18,4 +19,6 @@ https://webdesign-master.ru/blog/html-css/2.html
 https://codepen.io
 https://jsbin.com/
 https://www.figma.com/file/P3xwHrKiAjdMW6E0Qz7OrE/Intensive-(Copy)-(Copy)
+https://getbootstrap.com/
+
 
