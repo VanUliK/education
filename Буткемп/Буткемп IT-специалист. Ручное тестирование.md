@@ -9,4 +9,4 @@
 * [Урок 9. Создание баг-репортов. Практика](https://youtu.be/02NnHT5wyqo)
 * [Урок 10. Тестирование веб-приложений](https://youtu.be/Fa7rD1gtgUU)
 * [Урок 11. DevTools](https://youtu.be/OoqHPNVKoaY)
-* [Урок 12. Тестирование Rest API]()
+* [Урок 12. Тестирование Rest API](https://youtu.be/JMEF6f5F0L8)
