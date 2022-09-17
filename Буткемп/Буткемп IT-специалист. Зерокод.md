@@ -10,3 +10,4 @@
 * [Урок 10. Tilda и Integromat: Знакомство с инструментом](https://youtu.be/yI5DupkgegU)
 * [Урок 11. Tilda и Integromat: Подключаем Collabza](https://youtu.be/P5Slr2LpF40)
 * [Урок 12. Tilda и Integromat: Подключаем Integromat/Make](https://youtu.be/RYKsSDP0Teg)
+* [Урок 13. Tilda и Integromat: Настраиваем интеграции с Integromat](https://youtu.be/YPcDqoUOXqw)

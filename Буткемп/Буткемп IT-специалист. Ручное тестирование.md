@@ -10,3 +10,4 @@
 * [Урок 10. Тестирование веб-приложений](https://youtu.be/Fa7rD1gtgUU)
 * [Урок 11. DevTools](https://youtu.be/OoqHPNVKoaY)
 * [Урок 12. Тестирование Rest API](https://youtu.be/JMEF6f5F0L8)
+* [Урок 13. Основы тестирования мобильных приложений](https://youtu.be/247rboueLSU)
