@@ -11,3 +11,4 @@
 * [Урок 11. DevTools](https://youtu.be/OoqHPNVKoaY)
 * [Урок 12. Тестирование Rest API](https://youtu.be/JMEF6f5F0L8)
 * [Урок 13. Основы тестирования мобильных приложений](https://youtu.be/247rboueLSU)
+* [Урок 14. Charles Proxy](https://youtu.be/bX7LonipwNs)

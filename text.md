@@ -8,3 +8,5 @@ https://profidigital.gosuslugi.ru/?direction=prog&organization=1308
 
 
 [Домашняя работа (канал в telegram)](https://t.me/+_q0-YJrrVlhhY2Uy)
+
+[Урок 1  🚀 Воркшоп - Создаём первую программу](https://youtu.be/B5_2GSW5Cuc)

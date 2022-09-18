@@ -11,3 +11,4 @@
 * [Урок 11. Tilda и Integromat: Подключаем Collabza](https://youtu.be/P5Slr2LpF40)
 * [Урок 12. Tilda и Integromat: Подключаем Integromat/Make](https://youtu.be/RYKsSDP0Teg)
 * [Урок 13. Tilda и Integromat: Настраиваем интеграции с Integromat](https://youtu.be/YPcDqoUOXqw)
+* [Урок 14. Telegram Bot в Integromat](https://youtu.be/DXCUiSeg4IM)
