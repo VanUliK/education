@@ -7,4 +7,7 @@
 1. [Сергей Подиновский](https://youtu.be/bgcSrjF8ZBU)
 1. [Мансур Шафигуллин](https://youtu.be/-64fjyHunbY)
 1. [Валерий Кошелев](https://youtu.be/tZ0qedX4OrE)
+1. [Света Архипова](https://youtu.be/g3bVUQ6ZFIw)
 
+Гибкие методологии - Урок 2. Agile
+1. [Сергей Подиновский](https://youtu.be/xqMp9Ym9Il0)
