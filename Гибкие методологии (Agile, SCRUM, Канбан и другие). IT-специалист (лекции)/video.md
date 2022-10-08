@@ -5,10 +5,10 @@
 
 Гибкие методологии - Урок 1. Гибкие методологии. История возникновения ()
 
-1. [Сергей Подиновский](https://youtu.be/bgcSrjF8ZBU)
-1. [Мансур Шафигуллин](https://youtu.be/-64fjyHunbY)
-1. [Валерий Кошелев](https://youtu.be/tZ0qedX4OrE)
-1. [Света Архипова](https://youtu.be/g3bVUQ6ZFIw)
+1. [Сергей Подиновский](https://youtu.be/bgcSrjF8ZBU) ***программист***
+1. [Мансур Шафигуллин](https://youtu.be/-64fjyHunbY) ***тестировщик***
+1. [Валерий Кошелев](https://youtu.be/tZ0qedX4OrE) ***программист***
+1. [Света Архипова](https://youtu.be/g3bVUQ6ZFIw) ***Менеджер ИТ проектов***
 1. [Игорь Зуриев](https://youtu.be/cnEeySSv7ms) ***преподователь, который ведет лекции***
 
 
@@ -16,13 +16,14 @@
 
 2. [Сергей Подиновский](https://youtu.be/xqMp9Ym9Il0)
 2. [Валерий Кошелев](https://youtu.be/66idp3oybas)
+2. [Света Архипова](https://youtu.be/m0x7tcPRFCY)
 
 
-Гибкие методологии - Урок 3. Scrum ()
+Гибкие методологии - Урок 3. Scrum (Света Архипова)
 
 3. [Сергей Подиновский](https://youtu.be/7qpPE-uLu4w)
 3. [Валерий Кошелев](https://youtu.be/7JqNzudvdss)
-
+3. [Света Архипова](https://youtu.be/Rs6EB7kin04)
 
 Гибкие методологии - Урок 4. Lean ()
 
