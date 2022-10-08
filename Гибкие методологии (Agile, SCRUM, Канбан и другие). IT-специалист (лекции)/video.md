@@ -19,7 +19,7 @@
 2. [Света Архипова](https://youtu.be/m0x7tcPRFCY)
 
 
-Гибкие методологии - Урок 3. Scrum (Света Архипова)
+Гибкие методологии - Урок 3. Scrum ()
 
 3. [Сергей Подиновский](https://youtu.be/7qpPE-uLu4w)
 3. [Валерий Кошелев](https://youtu.be/7JqNzudvdss)
