@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    font-size: 40px;
+    color: brown;
+}
+
+img {
+    width: 260px;
+}
+
+ul {
+    font-size: large;
+    color: #3e177a;
+}
+
+.color {
+    color: rgb(7, 108, 86);
+}
+
+img {
+    width: 260px;
+}
+
+.container {
+    display: flex;
+    align-content: flex-start;
+    justify-content: center;
+    background-color: rgb(213, 240, 240);
+    padding-top: 10px;
+}
