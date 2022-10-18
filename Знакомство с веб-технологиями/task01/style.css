@@ -62,7 +62,6 @@
 .button:hover {
   background-color: rgba(203, 178, 178, 0.488);
   color: aqua;
-  border: 1px solid #000;
 }
 
 .footer-link {
