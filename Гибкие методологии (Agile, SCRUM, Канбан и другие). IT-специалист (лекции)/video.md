@@ -55,3 +55,4 @@
 1. [Урок 1. Гибкие методологии. История возникновения](https://youtu.be/cnEeySSv7ms)
 2. [Урок 2. Agile](https://youtu.be/Gbjzs1ItDHw)
 3. [Урок 3. Scrum](https://youtu.be/UurGregTdls)
+4. [Урок 4. Lean](https://youtu.be/cOHEYukh-oU)

@@ -12,18 +12,21 @@
 .logo {
   width: 100px;
   height: 50px;
-  background: #52a572;
+  background: #27045b6a;
   margin-top: 30px;
   margin-left: 30px;
+}
+.logo:hover {
+  background: #52a572;
 }
 
 .item {
   width: 300px;
-  height: 300px;
+  height: 100px;
   border: 1px solid #000;
   margin-bottom: 50px;
   border-radius: 10px 20px 30px 40px;
-  background-image: url();
+  background-image: url(https://avatars.mds.yandex.net/i?id=7ca37631f61a12aa88f6eb3c42fee71a_sr-5501746-images-thumbs&n=13);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -51,7 +54,7 @@
 .button {
   width: 100px;
   height: 40px;
-  background-color: #fdd;
+  background-color: rgba(27, 119, 173, 0.603);
   color: #52a572;
   text-align: center;
   line-height: 40px;
@@ -59,9 +62,13 @@
   margin: 0;
 }
 
+.test {
+  background-color: rgba(147, 80, 80, 0.318);
+}
+
 .button:hover {
-  background-color: rgba(203, 178, 178, 0.488);
-  color: aqua;
+  background-color: rgba(25, 52, 120, 0.586);
+  color: rgba(0, 255, 149, 0.501);
 }
 
 .footer-link {
@@ -69,7 +76,7 @@
 }
 
 .description:hover {
-  color: #52a572;
+  color: rgb(82, 178, 178);
 }
 
 .description {
