@@ -56,3 +56,4 @@
 2. [Урок 2. Agile](https://youtu.be/Gbjzs1ItDHw)
 3. [Урок 3. Scrum](https://youtu.be/UurGregTdls)
 4. [Урок 4. Lean](https://youtu.be/cOHEYukh-oU)
+5. [Урок 5. Kanban](https://youtu.be/h0oyP4Yf7CM)
