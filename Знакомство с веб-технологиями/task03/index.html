@@ -1,44 +1,51 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Сашина HTML страница</title>
-    <style>
-      .text {
-        color: rgb(110, 14, 145);
-        font-size: 50px;
-        font-style: italic;
-        background-color: rgba(203, 165, 165, 0.529);
-      }
-      .table {
-        border: 1px solid #000;
-      }
-      
-    </style>
-  </head>
-  <body>
-    <h1 class="text">Саша</h1>
-    <img
-      src="https://wot-drive.com/wp-content/uploads/medalKolobanov.png"
-      alt=""
-    />
-    <p>
-      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nesciunt placeat
-      amet <br />
-      officiis consequatur eum temporibus ullam adipisci. Facilis perspiciatis
-      dicta voluptates minus blanditiis quisquam hic deserunt, enim
-      exercitationem natus sint?
-    </p>
-    <ul>
-      <li>temp1</li>
-      <li>temp2</li>
-      <li>temp3</li>
-      <li>temp4</li>
-      <li>temp5</li>
-    </ul>
-    <a href="#">ссылка</a>
-    <script>
-      let name = prompt("Как вас зовут", " ");
-      alert(`Привет, ${name}`);
-    </script>
-  </body>
+
+<head>
+  <title>Сашина HTML страница</title>
+  <style>
+    .text {
+      color: rgb(110, 14, 145);
+      font-size: 50px;
+      font-style: italic;
+      background-color: rgba(203, 165, 165, 0.529);
+    }
+
+    .table {
+      border: 1px solid #000;
+    }
+  </style>
+</head>
+
+<body>
+  <h1 class="text">Саша</h1>
+  <img src="https://wot-drive.com/wp-content/uploads/medalKolobanov.png" alt="" />
+  <p>
+    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nesciunt placeat
+    amet <br />
+    officiis consequatur eum temporibus ullam adipisci. Facilis perspiciatis
+    dicta voluptates minus blanditiis quisquam hic deserunt, enim
+    exercitationem natus sint?
+  </p>
+  <ul>
+    <li>temp1</li>
+    <li>temp2</li>
+    <li>temp3</li>
+    <li>temp4</li>
+    <li>temp5</li>
+  </ul>
+  <a href="#">ссылка</a>
+
+
+  <script language="Javascript">
+    function ShowName() {
+      let name = prompt("Как Вас зовут?", "Имя");
+      alert(name);
+      let message = 'Привет ' + name;
+      alert(message);
+    }
+    ShowName();
+  </script>
+</body>
+
 </html>
