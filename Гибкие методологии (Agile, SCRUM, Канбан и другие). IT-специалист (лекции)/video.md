@@ -57,3 +57,4 @@
 3. [Урок 3. Scrum](https://youtu.be/UurGregTdls)
 4. [Урок 4. Lean](https://youtu.be/cOHEYukh-oU)
 5. [Урок 5. Kanban](https://youtu.be/h0oyP4Yf7CM)
+6. [Урок 6. Как выбрать гибкую методологию и не ошибиться](https://youtu.be/-QnBgISQKfc)
