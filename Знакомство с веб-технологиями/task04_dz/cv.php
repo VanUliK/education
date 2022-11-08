@@ -1,3 +1,4 @@
+<!-- https://fontawesome.ru/all-icons/ -->
 <?php
 
 $name = "Иван";
@@ -6,18 +7,18 @@ $profession = "Инженер";
 $email = "ivan@maill.ru";
 $phone = 89091234567;
 $array = [
-     'array_name' => ['Готовка', 'Электроника', 'Media', 'Программирование'],
-   'level' => [90, 70, 50, 60]
- ];
- 
-$age_year = 2022-1987; //возраст в годах
-$age_day = (2022-1987)*365; //возраст в днях
+  'array_name' => ['Готовка', 'Электроника', 'Media', 'Программирование'],
+  'level' => [90, 70, 50, 60]
+];
+
+$age_year = 2022 - 1987; //возраст в годах
+$age_day = (2022 - 1987) * 365; //возраст в днях
 
 $work = [
-      'work' => ['Хлебозавод ЗАО «Типек»', 'Кирпичный завод ООО «Пятый элемент»', 'Россети Янтарь'],
-      'year' => ['Июль 2007г. – Август 2014г', 'Август 2014г. – Октябрь 2014г', 'Октябрь 2014г. – По настоящее время']
- ];
- 
+  'work' => ['Хлебозавод ЗАО «Типек»', 'Кирпичный завод ООО «Пятый элемент»', 'Россети Янтарь'],
+  'year' => ['Июль 2007г. – Август 2014г', 'Август 2014г. – Октябрь 2014г', 'Октябрь 2014г. – По настоящее время']
+];
+
 ?>
 <!DOCTYPE html>
 <html>
@@ -63,47 +64,47 @@ $work = [
             <div class="w3-display-bottomleft w3-container w3-text-black">
               <h2>
                 <?php
-         echo $name;
-         ?>
+                echo $name;
+                ?>
               </h2>
             </div>
           </div>
           <div class="w3-container">
             <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>
-              <?php echo $profession;?>
+              <?php echo $profession; ?>
             </p>
             <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>
               <?php
-         echo $city;
-         ?>
+              echo $city;
+              ?>
             </p>
             <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>
               <?php
-         echo $email;
-         ?>
+              echo $email;
+              ?>
             </p>
             <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>
               <?php
-         echo $phone;
-         ?>
+              echo $phone;
+              ?>
             </p>
             <hr>
             <p class="w3-large w3-text-theme"><b><i
-                  class="fa fa-globe fa-fw w3-margin-right w3-text-teal"></i>Возраст</b></p>
+                  class="fa fa-heart fa-fw w3-margin-right w3-text-teal"></i>Возраст</b></p>
             <p>В днях</p>
             <div class="w3-light-grey w3-round-xlarge">
               <div class="w3-round-xlarge w3-teal" style="text-align: center;">
                 <?php
-              echo $age_day;
-            ?>
+                echo $age_day;
+                ?>
               </div>
             </div>
             <p>В годах</p>
             <div class="w3-light-grey w3-round-xlarge">
               <div class="w3-round-xlarge w3-teal" style="text-align: center;">
                 <?php
-              echo $age_year;
-            ?>
+                echo $age_year;
+                ?>
               </div>
             </div>
 
@@ -111,60 +112,60 @@ $work = [
             <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Навыки</b></p>
             <p>
               <?php
-   echo $array['array_name'][0];
-   ?>
+              echo $array['array_name'][0];
+              ?>
             </p>
             <div class="w3-light-grey w3-round-xlarge w3-small">
               <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:<?php
-   echo $array['level'][0];
-   ?>%">
+              echo $array['level'][0];
+              ?>%">
                 <?php
-   echo $array['level'][0];
-   ?>%
+                echo $array['level'][0];
+                ?>%
               </div>
             </div>
             <p>
               <?php
-   echo $array['array_name'][1];
-   ?>
+              echo $array['array_name'][1];
+              ?>
             </p>
             <div class="w3-light-grey w3-round-xlarge w3-small">
               <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:<?php
-   echo $array['level'][1];
-   ?>%">
+              echo $array['level'][1];
+              ?>%">
                 <div class="w3-center w3-text-white">
                   <?php
-   echo $array['level'][1];
-   ?>%
+                  echo $array['level'][1];
+                  ?>%
                 </div>
               </div>
             </div>
             <p>
               <?php
-   echo $array['array_name'][2];
-   ?>
+              echo $array['array_name'][2];
+              ?>
             </p>
             <div class="w3-light-grey w3-round-xlarge w3-small">
               <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:<?php
-   echo $array['level'][2];
-   ?>%">
+              echo $array['level'][2];
+              ?>%">
                 <?php
-   echo $array['level'][2];
-   ?>%
+                echo $array['level'][2];
+                ?>%
               </div>
             </div>
             <p>
               <?php
-   echo $array['array_name'][3];
-   ?>
+              echo $array['array_name'][3];
+              ?>
             </p>
             <div class="w3-light-grey w3-round-xlarge w3-small">
               <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:<?php
-   echo $array['level'][3];
-   ?>%">
+              echo $array['level'][3];
+              ?>%">
                 <?php
-   echo $array['level'][3];
-   ?>%
+                echo $array['level'][3];
+                ?>%
               </div>
             </div>
             <br>
@@ -203,8 +204,8 @@ $work = [
           <div class="w3-container">
             <h5 class="w3-opacity"><b>
                 <?php
-              echo $work['work'][2];
-              ?>
+                echo $work['work'][2];
+                ?>
               </b></h5>
             <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>
               <?php
@@ -218,8 +219,8 @@ $work = [
           <div class="w3-container">
             <h5 class="w3-opacity"><b>
                 <?php
-              echo $work['work'][1];
-              ?>
+                echo $work['work'][1];
+                ?>
               </b></h5>
             <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>
               <?php
@@ -232,8 +233,8 @@ $work = [
           <div class="w3-container">
             <h5 class="w3-opacity"><b>
                 <?php
-              echo $work['work'][0];
-              ?>
+                echo $work['work'][0];
+                ?>
               </b></h5>
             <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>
               <?php
