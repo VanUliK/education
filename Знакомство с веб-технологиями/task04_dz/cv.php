@@ -1,4 +1,7 @@
-<!-- https://fontawesome.ru/all-icons/ -->
+<!-- https://fontawesome.ru/all-icons/ 
+https://www.php.net/manual/ru/index.php
+
+-->
 <?php
 
 $name = "Иван";
@@ -59,8 +62,7 @@ $work = [
 
         <div class="w3-white w3-text-grey w3-card-4">
           <div class="w3-display-container">
-            <img src="https://imgfon.ru/Images/Details_img_880px/Animals/glaza-belyy_fon-kotik-morda-polosatyy.webp"
-              style="width:100%" alt="Avatar">
+            <img src="https://imgfon.ru/Images/Details_img_880px/Animals/glaza-belyy_fon-kotik-morda-polosatyy.webp" style="width:100%" alt="Avatar">
             <div class="w3-display-bottomleft w3-container w3-text-black">
               <h2>
                 <?php
@@ -89,8 +91,7 @@ $work = [
               ?>
             </p>
             <hr>
-            <p class="w3-large w3-text-theme"><b><i
-                  class="fa fa-heart fa-fw w3-margin-right w3-text-teal"></i>Возраст</b></p>
+            <p class="w3-large w3-text-theme"><b><i class="fa fa-heart fa-fw w3-margin-right w3-text-teal"></i>Возраст</b></p>
             <p>В днях</p>
             <div class="w3-light-grey w3-round-xlarge">
               <div class="w3-round-xlarge w3-teal" style="text-align: center;">
@@ -117,8 +118,8 @@ $work = [
             </p>
             <div class="w3-light-grey w3-round-xlarge w3-small">
               <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:<?php
-              echo $array['level'][0];
-              ?>%">
+                                                                                        echo $array['level'][0];
+                                                                                        ?>%">
                 <?php
                 echo $array['level'][0];
                 ?>%
@@ -131,8 +132,8 @@ $work = [
             </p>
             <div class="w3-light-grey w3-round-xlarge w3-small">
               <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:<?php
-              echo $array['level'][1];
-              ?>%">
+                                                                                        echo $array['level'][1];
+                                                                                        ?>%">
                 <div class="w3-center w3-text-white">
                   <?php
                   echo $array['level'][1];
@@ -147,8 +148,8 @@ $work = [
             </p>
             <div class="w3-light-grey w3-round-xlarge w3-small">
               <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:<?php
-              echo $array['level'][2];
-              ?>%">
+                                                                                        echo $array['level'][2];
+                                                                                        ?>%">
                 <?php
                 echo $array['level'][2];
                 ?>%
@@ -161,8 +162,8 @@ $work = [
             </p>
             <div class="w3-light-grey w3-round-xlarge w3-small">
               <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:<?php
-              echo $array['level'][3];
-              ?>%">
+                                                                                        echo $array['level'][3];
+                                                                                        ?>%">
                 <?php
                 echo $array['level'][3];
                 ?>%
@@ -199,8 +200,7 @@ $work = [
       <div class="w3-twothird">
 
         <div class="w3-container w3-card w3-white w3-margin-bottom">
-          <h2 class="w3-text-grey w3-padding-16"><i
-              class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Опыт работы</h2>
+          <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Опыт работы</h2>
           <div class="w3-container">
             <h5 class="w3-opacity"><b>
                 <?php
@@ -246,8 +246,7 @@ $work = [
         </div>
 
         <div class="w3-container w3-card w3-white">
-          <h2 class="w3-text-grey w3-padding-16"><i
-              class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Образование</h2>
+          <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Образование</h2>
           <div class="w3-container">
             <h5 class="w3-opacity"><b>gb.ru</b></h5>
             <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Forever</h6>
