@@ -1,5 +1,8 @@
 <!-- https://fontawesome.ru/all-icons/ 
 https://www.php.net/manual/ru/index.php
+https://www.php.net/manual/ru/funcref.php
+https://www.w3schools.com/php/phptryit.asp?filename=tryphp_compiler
+https://rextester.com/l/csharp_online_compiler
 
 -->
 <?php
