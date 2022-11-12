@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<CATALOG>
+<BOOK>
+        <NAME>Камил видит руками</NAME>
+        <AVTOR>Томаш Малковски</AVTOR>
+        <PAGE>146</PAGE>
+        <DATA>2019</DATA>       
+        <PRICE>863</PRICE>
+</BOOK>
+        <NAME>Вероятности и неприятности</NAME>
+        <AVTOR>Сергей Самойленко</AVTOR>
+        <PAGE>134</PAGE>
+        <DATA>2022</DATA>       
+        <PRICE>1055</PRICE>
+</BOOK>
+        <NAME> Когда жизнь сбивает с ног</NAME>
+        <AVTOR>Расс Хэррис</AVTOR>
+        <PAGE>80</PAGE>
+        <DATA>2021</DATA>       
+        <PRICE>945</PRICE>
+</BOOK>
+        <NAME>Цветы в темноте </NAME>
+        <AVTOR>Cестра Данг Нгием</AVTOR>
+        <PAGE>124</PAGE>
+        <DATA>2020</DATA>    
+        <PRICE>1027</PRICE>
+</BOOK>
+   
+        <NAME>Стратегии перемен </NAME>
+        <AVTOR>Джон Коттер</AVTOR>
+        <PAGE>102</PAGE>        
+        <DATA>2022</DATA>   
+        <PRICE>1418</PRICE>
+</BOOK>
+</CATALOG>
+
+

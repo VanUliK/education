@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+
+  <STUDENT>
+    <NAME>Карпова Анна Александровна</NAME>
+    <BIRTHDAY>2008</BIRTHDAY>
+    <CLASS>8A</CLASS>
+    <ADRESS> г. Москва, Ленинский проспект, д. 2, кв. 277</ADRESS>
+  </STUDENT> 
+   <STUDENT>
+    <NAME> Малышкин Михаил Иванович</NAME>
+    <BIRTHDAY>2014</BIRTHDAY>
+    <CLASS>2Б</CLASS>
+    <ADRESS> г. Москва, Ленградское шоссе, д. 10, кв. 56 </ADRESS>
+  </STUDENT> 
+  
+  </STUDENT> 
+   <STUDENT>
+    <NAME>  Андреева Алла Петровна</NAME>
+    <BIRTHDAY>2015</BIRTHDAY>
+    <CLASS>1Г</CLASS>
+    <ADRESS>г. Москва, Дмитровское шоссе, д. 107, кв. 2 </ADRESS>
+  </STUDENT>
