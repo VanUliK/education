@@ -4,3 +4,7 @@
 * [Урок 2. Основы CSS — Веб вёрстка HTML CSS (лекция)](https://youtu.be/yrVVvUGX1TU)
 
 
+
+Интенсив по Frontend-разработке с Романом Черновым
+* [День 1. Знакомство с Фронтендом](https://youtu.be/XRDUHnl0hqg)
+* [День 2. Первая практика](https://youtu.be/-DRfJXykaiY)
