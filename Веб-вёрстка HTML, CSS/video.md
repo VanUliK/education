@@ -16,3 +16,5 @@
 * [День 3. Создаем полноценный веб-сайт](https://youtu.be/8-W1U6ulCZ8)
 * [День 4. Погружение в JavaScript](https://youtu.be/xUu-Y7MGTDk)
 * [День 5. Знакомство с Angular](https://youtu.be/3_Uu5OicXT0)
+* [День 6. Выкатываем на продакшен](https://youtu.be/BsZS3WM69yA)
+* [День 7. Как стать Frontend-разработчиком](https://youtu.be/E6Aw8b8rbHA)
