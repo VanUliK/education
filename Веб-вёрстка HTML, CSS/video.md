@@ -3,6 +3,7 @@
 * [Урок 1. Введение и Основы HTML — Веб вёрстка HTML CSS (лекция)](https://youtu.be/tvOZ-9Gq2os)
 * [Урок 2. Основы CSS — Веб вёрстка HTML CSS (лекция)](https://youtu.be/yrVVvUGX1TU)
 * [Урок 3. Работа с макетом и создание блочной структуры - Веб-вёрстка HTML/CSS (лекция)](https://youtu.be/7r2aWab7Bwk)
+* [Урок 4. Основы позиционирования - Веб-вёрстка HTML/CSS (лекция)](https://youtu.be/Lgsd0hWiJCM)
 
 
 * [Семинар 1. Введение и Основы HTML — Веб вёрстка HTML CSS](https://youtu.be/aPZMB6CL4ec)
