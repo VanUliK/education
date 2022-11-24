@@ -9,6 +9,7 @@
 * [Семинар 1. Введение и Основы HTML — Веб вёрстка HTML CSS](https://youtu.be/aPZMB6CL4ec)
 * [Семинар 1 (другой преподаватель). Введение и Основы HTML — Веб вёрстка HTML CSS](https://youtu.be/U87IVUdjKmA)
 * [Семинар 2. Основы CSS — Веб вёрстка HTML CSS](https://youtu.be/bqHX9_2zxTo)
+* [Семинар 3. Урок 3. Работа с макетом и создание блочной структуры — Веб вёрстка HTML CSS](https://youtu.be/wkeyGz_35S0)
 
 
 Интенсив по Frontend-разработке с Романом Черновым
