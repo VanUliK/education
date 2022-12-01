@@ -4,13 +4,14 @@
 * [Урок 2. Основы CSS — Веб вёрстка HTML CSS (лекция)](https://youtu.be/yrVVvUGX1TU)
 * [Урок 3. Работа с макетом и создание блочной структуры - Веб-вёрстка HTML/CSS (лекция)](https://youtu.be/7r2aWab7Bwk)
 * [Урок 4. Основы позиционирования - Веб-вёрстка HTML/CSS (лекция)](https://youtu.be/Lgsd0hWiJCM)
-
+* [Урок 5. Основы создания адаптивного сайта - Веб-вёрстка HTML/CSS (лекция)](https://youtu.be/WcEYoRkqS_o)
 
 * [Семинар 1. Введение и Основы HTML — Веб вёрстка HTML CSS](https://youtu.be/aPZMB6CL4ec)
 * [Семинар 1 (другой преподаватель). Введение и Основы HTML — Веб вёрстка HTML CSS](https://youtu.be/U87IVUdjKmA)
 * [Семинар 2. Основы CSS — Веб вёрстка HTML CSS](https://youtu.be/bqHX9_2zxTo)
 * [Семинар 3. Урок 3. Работа с макетом и создание блочной структуры — Веб вёрстка HTML CSS](https://youtu.be/wkeyGz_35S0)
 * [Семинар 4. Основы позиционирования ч.1 - Веб-вёрстка HTML/CSS](https://youtu.be/jL3nzZor8cc)
+* [Семинар 5. Основы позиционирования ч.2 - Веб-вёрстка HTML/CSS](https://youtu.be/EaM6nXl3_Y8)
 
 
 Интенсив по Frontend-разработке с Романом Черновым
