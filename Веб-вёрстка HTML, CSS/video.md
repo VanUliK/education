@@ -1,35 +1,38 @@
 Веб-вёрстка HTML/CSS (лекции - Алексей Кадочников)
 
-* [Урок 1. Введение и Основы HTML — Веб вёрстка HTML CSS (лекция)](https://youtu.be/tvOZ-9Gq2os)
-* [Урок 2. Основы CSS — Веб вёрстка HTML CSS (лекция)](https://youtu.be/yrVVvUGX1TU)
-* [Урок 3. Работа с макетом и создание блочной структуры - Веб-вёрстка HTML/CSS (лекция)](https://youtu.be/7r2aWab7Bwk)
-* [Урок 4. Основы позиционирования - Веб-вёрстка HTML/CSS (лекция)](https://youtu.be/Lgsd0hWiJCM)
-* [Урок 5. Основы создания адаптивного сайта - Веб-вёрстка HTML/CSS (лекция)](https://youtu.be/WcEYoRkqS_o)
+- [Урок 1. Введение и Основы HTML — Веб вёрстка HTML CSS (лекция)](https://youtu.be/tvOZ-9Gq2os)
+- [Урок 2. Основы CSS — Веб вёрстка HTML CSS (лекция)](https://youtu.be/yrVVvUGX1TU)
+- [Урок 3. Работа с макетом и создание блочной структуры - Веб-вёрстка HTML/CSS (лекция)](https://youtu.be/7r2aWab7Bwk)
+- [Урок 4. Основы позиционирования - Веб-вёрстка HTML/CSS (лекция)](https://youtu.be/Lgsd0hWiJCM)
+- [Урок 5. Основы создания адаптивного сайта - Веб-вёрстка HTML/CSS (лекция)](https://youtu.be/WcEYoRkqS_o)
 
-* [Семинар 1. Введение и Основы HTML — Веб вёрстка HTML CSS](https://youtu.be/aPZMB6CL4ec)
-* [Семинар 1 (другой преподаватель). Введение и Основы HTML — Веб вёрстка HTML CSS](https://youtu.be/U87IVUdjKmA)
+- [Семинар 1. Введение и Основы HTML — Веб вёрстка HTML CSS](https://youtu.be/aPZMB6CL4ec)
+- [Семинар 1 (другой преподаватель). Введение и Основы HTML — Веб вёрстка HTML CSS](https://youtu.be/U87IVUdjKmA)
 
-* [Семинар 2. Основы CSS — Веб вёрстка HTML CSS](https://youtu.be/bqHX9_2zxTo)
-* [Семинар 2. (другой преподаватель). Основы CSS — Веб вёрстка HTML CSS](https://youtu.be/XpZRYkvsg1s)
+- [Семинар 2. Основы CSS — Веб вёрстка HTML CSS](https://youtu.be/bqHX9_2zxTo)
+- [Семинар 2. (другой преподаватель). Основы CSS — Веб вёрстка HTML CSS](https://youtu.be/XpZRYkvsg1s)
 
-* [Семинар 3. Урок 3. Работа с макетом и создание блочной структуры — Веб вёрстка HTML CSS](https://youtu.be/wkeyGz_35S0)
-* [Семинар 3. (другой преподаватель). Урок 3. Работа с макетом и создание блочной структуры — Веб вёрстка HTML CSS](https://youtu.be/kn2MtLc54cs)
+- [Семинар 3. Урок 3. Работа с макетом и создание блочной структуры — Веб вёрстка HTML CSS](https://youtu.be/wkeyGz_35S0)
+- [Семинар 3. (другой преподаватель). Урок 3. Работа с макетом и создание блочной структуры — Веб вёрстка HTML CSS](https://youtu.be/kn2MtLc54cs)
 
-* [Семинар 4. Основы позиционирования ч.1 - Веб-вёрстка HTML/CSS](https://youtu.be/jL3nzZor8cc)
-* [Семинар 4. (другой преподаватель). Основы позиционирования ч.1 - Веб-вёрстка HTML/CSS](https://youtu.be/lAQitQg3quQ)
+- [Семинар 4. Основы позиционирования ч.1 - Веб-вёрстка HTML/CSS](https://youtu.be/jL3nzZor8cc)
+- [Семинар 4. (другой преподаватель). Основы позиционирования ч.1 - Веб-вёрстка HTML/CSS](https://youtu.be/lAQitQg3quQ)
 
-* [Семинар 5. Основы позиционирования ч.2 - Веб-вёрстка HTML/CSS](https://youtu.be/EaM6nXl3_Y8)
-* [Семинар 5. (другой преподаватель). Основы позиционирования ч.2 - Веб-вёрстка HTML/CSS]()
+- [Семинар 5. Основы позиционирования ч.2 - Веб-вёрстка HTML/CSS](https://youtu.be/EaM6nXl3_Y8)
+- [Семинар 5. (другой преподаватель). Основы позиционирования ч.2 - Веб-вёрстка HTML/CSS](https://youtu.be/yvfvHDLrI84)
 
-* [Семинар 6. CSS препроцессоры - Веб-вёрстка HTML/CSS](https://youtu.be/r3MJInmX3SM)
-* [Семинар 6. (другой преподаватель). Основы создания адаптивного сайта ч.1 - Веб-вёрстка HTML/CSS]()
+- [Семинар 6. CSS препроцессоры - Веб-вёрстка HTML/CSS](https://youtu.be/r3MJInmX3SM)
+- [Семинар 6. (другой преподаватель). Основы создания адаптивного сайта ч.1 ](https://youtu.be/QIOUz4pLxlY)
 
+- [Семинар 7. Основы создания адаптивного сайта - Веб-вёрстка HTML/CSS](https://youtu.be/6f8DM30JHBM)
+- [Семинар 7. (другой преподаватель). Основы создания адаптивного сайта ч.2 ]()
 
 Интенсив по Frontend-разработке с Романом Черновым
-* [День 1. Знакомство с Фронтендом](https://youtu.be/XRDUHnl0hqg)
-* [День 2. Первая практика](https://youtu.be/-DRfJXykaiY)
-* [День 3. Создаем полноценный веб-сайт](https://youtu.be/8-W1U6ulCZ8)
-* [День 4. Погружение в JavaScript](https://youtu.be/xUu-Y7MGTDk)
-* [День 5. Знакомство с Angular](https://youtu.be/3_Uu5OicXT0)
-* [День 6. Выкатываем на продакшен](https://youtu.be/BsZS3WM69yA)
-* [День 7. Как стать Frontend-разработчиком](https://youtu.be/E6Aw8b8rbHA)
+
+- [День 1. Знакомство с Фронтендом](https://youtu.be/XRDUHnl0hqg)
+- [День 2. Первая практика](https://youtu.be/-DRfJXykaiY)
+- [День 3. Создаем полноценный веб-сайт](https://youtu.be/8-W1U6ulCZ8)
+- [День 4. Погружение в JavaScript](https://youtu.be/xUu-Y7MGTDk)
+- [День 5. Знакомство с Angular](https://youtu.be/3_Uu5OicXT0)
+- [День 6. Выкатываем на продакшен](https://youtu.be/BsZS3WM69yA)
+- [День 7. Как стать Frontend-разработчиком](https://youtu.be/E6Aw8b8rbHA)
