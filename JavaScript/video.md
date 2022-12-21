@@ -1,5 +1,5 @@
 - [Урок 1. Знакомство с JavaScript](https://youtu.be/_Sk4izRzeZc)
-- [Урок 2. Основы JavaScript]
+- [Урок 2. Основы JavaScript](https://youtu.be/tPfSao5yIFg)
 - [Урок 3. Знакомство с функциями в JavaScript]
 - [Урок 4. Циклы и массивы]
 - [Урок 5. Объекты в JavaScript]
@@ -11,8 +11,8 @@
 - [Урок 11. Работа с медиа]
 - [Урок 12. Основы работы с API, итоги курса]
 
-- [Семинар 1. Знакомство с JavaScript]()
-- [Семинар 2. Основы JavaScript]
+- [Семинар 1. Знакомство с JavaScript](https://youtu.be/QirddaNt4sE)
+- [Семинар 2. Основы JavaScript]()
 - [Семинар 3. Знакомство с функциями в JavaScript]
 - [Семинар 4. Циклы и массивы]
 - [Семинар 5. Объекты в JavaScript]
