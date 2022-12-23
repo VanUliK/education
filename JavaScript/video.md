@@ -12,7 +12,7 @@
 - [Урок 12. Основы работы с API, итоги курса]
 
 - [Семинар 1. Знакомство с JavaScript](https://youtu.be/QirddaNt4sE)
-- [Семинар 2. Основы JavaScript]()
+- [Семинар 2. Основы JavaScript](https://youtu.be/A54q8c2clIY)
 - [Семинар 3. Знакомство с функциями в JavaScript]
 - [Семинар 4. Циклы и массивы]
 - [Семинар 5. Объекты в JavaScript]

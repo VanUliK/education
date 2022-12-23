@@ -1,5 +1,3 @@
-[Настройка VS Code для верстки](https://www.youtube.com/watch?v=JSGPd1E16-o)
-
 Веб-вёрстка HTML/CSS (лекции - Алексей Кадочников)
 
 - [Урок 1. Введение и Основы HTML — Веб вёрстка HTML CSS (лекция)](https://youtu.be/tvOZ-9Gq2os)
@@ -17,6 +15,7 @@
 
 - [Семинар 2. (Артур Горохов). Основы CSS — Веб вёрстка HTML CSS](https://youtu.be/bqHX9_2zxTo)
 - [Семинар 2. (Алексей Сидоров). Основы CSS — Веб вёрстка HTML CSS](https://youtu.be/XpZRYkvsg1s)
+- [Семинар 2. (Александр Ерофеев). Основы CSS — Веб вёрстка HTML CSS](https://youtu.be/ft0h1OAml6M)
 
 - [Семинар 3. (Артур Горохов). Работа с макетом и создание блочной структуры — Веб вёрстка HTML CSS](https://youtu.be/wkeyGz_35S0)
 - [Семинар 3. (Алексей Сидоров). Урок 3. Работа с макетом и создание блочной структуры — Веб вёрстка HTML CSS](https://youtu.be/kn2MtLc54cs)
@@ -51,3 +50,16 @@
 - [День 5. Знакомство с Angular](https://youtu.be/3_Uu5OicXT0)
 - [День 6. Выкатываем на продакшен](https://youtu.be/BsZS3WM69yA)
 - [День 7. Как стать Frontend-разработчиком](https://youtu.be/E6Aw8b8rbHA)
+
+[Настройка VS Code для верстки](https://www.youtube.com/watch?v=JSGPd1E16-o)
+[Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
+[Популярные названия классов HTML/CSS](https://tpverstak.ru/common-css-class-names/)
+https://fontawesome.com/start
+https://codepen.io/pen/
+https://animista.net/play/basic
+https://iconer.app/ionicons/
+
+[Запись вебинара с темой flexbox](https://mega.nz/file/pV5hWAAb#-ujdEjwENsIDT1Jq1MFvImEXMMMXVxCrFURxppEm4eM###)
+[Запись вебинара с темой SVG (см. вторую половину с 2 часов)](https://www.youtube.com/watch?v=2JEyiaSnlaE) [презентация](https://uploads.hb.cldmail.ru/asset/1327886/attachment/2b5d7a3578e609b2dc2167442f7b1ce0.pdf)
+[Запись вебинара (адаптив 1)](https://mega.nz/file/IRxyHI4B#KzNVwBbCcd0aD4vAYCjMwKWO_OTMF29pD1diElmMQPg)
+[Запись семинара (адаптив 2)](https://mega.nz/file/cUZHXBQS#YVUP2BVbHxqBkU3RutroePoTsGolZBYULjftBhq8Qnc)
