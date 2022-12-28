@@ -12,7 +12,7 @@
 
 - [Семинар 1 - Знакомство с языком Python](https://youtu.be/4CCLVc08Vgk)
 - [Семинар 2 - Знакомство с языком Python](https://youtu.be/qLnZBC7fTbM)
-- [Семинар 3 - Знакомство с языком Python]()
+- [Семинар 3 - Знакомство с языком Python](https://youtu.be/B-TUzSyY3yU)
 - [Семинар 4 - Знакомство с языком Python](https://youtu.be/ea8t9UZl_EE)
 - [Семинар 5 - Знакомство с языком Python](https://youtu.be/YZXpAJencdE)
 - [Семинар 6 - Знакомство с языком Python](https://youtu.be/KQcLnT4TlcE)
@@ -20,5 +20,5 @@
 - [Семинар 8 - Знакомство с языком Python](https://youtu.be/RBJ2DNAsI1U)
 - [Семинар 9 - Знакомство с языком Python](https://youtu.be/mdIvpz9eKfk)
 - [Семинар 10 - Знакомство с языком Python](https://youtu.be/kVFq6ifMWKQ)
-- [Семинар 11 - Знакомство с языком Python]()
-- [Семинар 12 - Знакомство с языком Python]()
+- [Семинар 11 - Знакомство с языком Python](https://youtu.be/PHfPb8j9b3o)
+- [Семинар 12 - Знакомство с языком Python](https://youtu.be/J1C15R_vG0s)
