@@ -1,6 +1,6 @@
 - [Урок 1. Знакомство с JavaScript](https://youtu.be/_Sk4izRzeZc)
 - [Урок 2. Основы JavaScript](https://youtu.be/tPfSao5yIFg)
-- [Урок 3. Знакомство с функциями в JavaScript]
+- [Урок 3. Знакомство с функциями в JavaScript](https://youtu.be/uyUfnW2hc5Y)
 - [Урок 4. Циклы и массивы]
 - [Урок 5. Объекты в JavaScript]
 - [Урок 6. Введение в DOM (Document Object Model)]
