@@ -13,7 +13,7 @@
 - [Семинар 1. Знакомство с JavaScript](https://youtu.be/QirddaNt4sE)
 - [Семинар 2. Основы JavaScript](https://youtu.be/A54q8c2clIY)
 - [Семинар 3. Знакомство с функциями в JavaScript](https://youtu.be/DZhcOvDe2xI)
-- [Семинар 4. Циклы и массивы]
+- [Семинар 4. Циклы и массивы](https://youtu.be/csGGrXMl7us)
 - [Семинар 5. Объекты в JavaScript]
 - [Семинар 6. Введение в DOM (Document Object Model)]
 - [Семинар 7. Работа с DOM]
