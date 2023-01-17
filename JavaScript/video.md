@@ -10,7 +10,6 @@
 - [Урок 10. Шаблонизация и работа с JSON]
 - [Урок 11. Работа с медиа]
 - [Урок 12. Основы работы с API, итоги курса]
-
 - [Семинар 1. Знакомство с JavaScript](https://youtu.be/QirddaNt4sE)
 - [Семинар 2. Основы JavaScript](https://youtu.be/A54q8c2clIY)
 - [Семинар 3. Знакомство с функциями в JavaScript](https://youtu.be/DZhcOvDe2xI)
