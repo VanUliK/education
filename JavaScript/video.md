@@ -2,7 +2,7 @@
 - [Урок 2. Основы JavaScript](https://youtu.be/tPfSao5yIFg)
 - [Урок 3. Знакомство с функциями в JavaScript](https://youtu.be/uyUfnW2hc5Y)
 - [Урок 4. Циклы и массивы](https://youtu.be/nL3frUg9zTA)
-- [Урок 5. Объекты в JavaScript]
+- [Урок 5. Объекты в JavaScript](https://youtu.be/0PAhWG0LWZE)
 - [Урок 6. Введение в DOM (Document Object Model)]
 - [Урок 7. Работа с DOM]
 - [Урок 8. Основы событий в JavaScript]
