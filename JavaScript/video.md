@@ -3,7 +3,7 @@
 - [Урок 3. Знакомство с функциями в JavaScript](https://youtu.be/uyUfnW2hc5Y)
 - [Урок 4. Циклы и массивы](https://youtu.be/nL3frUg9zTA)
 - [Урок 5. Объекты в JavaScript](https://youtu.be/0PAhWG0LWZE)
-- [Урок 6. Введение в DOM (Document Object Model)]
+- [Урок 6. Введение в DOM (Document Object Model)](https://youtu.be/yInB1_dSmDg)
 - [Урок 7. Работа с DOM]
 - [Урок 8. Основы событий в JavaScript]
 - [Урок 9. Работа с событиями]
@@ -14,7 +14,7 @@
 - [Семинар 2. Основы JavaScript](https://youtu.be/A54q8c2clIY)
 - [Семинар 3. Знакомство с функциями в JavaScript](https://youtu.be/DZhcOvDe2xI)
 - [Семинар 4. Циклы и массивы](https://youtu.be/csGGrXMl7us)
-- [Семинар 5. Объекты в JavaScript]
+- [Семинар 5. Объекты в JavaScript](https://youtu.be/WvucBMLevJA)
 - [Семинар 6. Введение в DOM (Document Object Model)]
 - [Семинар 7. Работа с DOM]
 - [Семинар 8. Основы событий в JavaScript]
