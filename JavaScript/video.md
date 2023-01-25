@@ -4,7 +4,7 @@
 - [Урок 4. Циклы и массивы](https://youtu.be/nL3frUg9zTA)
 - [Урок 5. Объекты в JavaScript](https://youtu.be/0PAhWG0LWZE)
 - [Урок 6. Введение в DOM (Document Object Model)](https://youtu.be/yInB1_dSmDg)
-- [Урок 7. Работа с DOM]
+- [Урок 7. Работа с DOM](https://youtu.be/d1rFy8wbdvA)
 - [Урок 8. Основы событий в JavaScript]
 - [Урок 9. Работа с событиями]
 - [Урок 10. Шаблонизация и работа с JSON]
@@ -15,7 +15,7 @@
 - [Семинар 3. Знакомство с функциями в JavaScript](https://youtu.be/DZhcOvDe2xI)
 - [Семинар 4. Циклы и массивы](https://youtu.be/csGGrXMl7us)
 - [Семинар 5. Объекты в JavaScript](https://youtu.be/WvucBMLevJA)
-- [Семинар 6. Введение в DOM (Document Object Model)]
+- [Семинар 6. Введение в DOM (Document Object Model)](https://youtu.be/TniIcvznx7Y)
 - [Семинар 7. Работа с DOM]
 - [Семинар 8. Основы событий в JavaScript]
 - [Семинар 9. Работа с событиями]
