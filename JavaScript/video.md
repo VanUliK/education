@@ -10,12 +10,34 @@
 - [Урок 10. Шаблонизация и работа с JSON]
 - [Урок 11. Работа с медиа]
 - [Урок 12. Основы работы с API, итоги курса]
+
+---
+
+Алексей Кадочников
+
 - [Семинар 1. Знакомство с JavaScript](https://youtu.be/QirddaNt4sE)
 - [Семинар 2. Основы JavaScript](https://youtu.be/A54q8c2clIY)
 - [Семинар 3. Знакомство с функциями в JavaScript](https://youtu.be/DZhcOvDe2xI)
 - [Семинар 4. Циклы и массивы](https://youtu.be/csGGrXMl7us)
 - [Семинар 5. Объекты в JavaScript](https://youtu.be/WvucBMLevJA)
 - [Семинар 6. Введение в DOM (Document Object Model)](https://youtu.be/TniIcvznx7Y)
+- [Семинар 7. Работа с DOM](https://youtu.be/szCFlwv5FDc)
+- [Семинар 8. Основы событий в JavaScript]
+- [Семинар 9. Работа с событиями]
+- [Семинар 10. Шаблонизация и работа с JSON]
+- [Семинар 11. Работа с медиа]
+- [Семинар 12. Основы работы с API, итоги курса]
+
+---
+
+(Александр)
+
+- [Семинар 1. Знакомство с JavaScript](https://youtu.be/RzxI2VdUq9M)
+- [Семинар 2. Основы JavaScript](https://youtu.be/8BVzkUGfchk)
+- [Семинар 3. Знакомство с функциями в JavaScript](https://youtu.be/bpU62mSgC1E)
+- [Семинар 4. Циклы и массивы](https://youtu.be/cB0cPZhBAy8)
+- [Семинар 5. Объекты в JavaScript](https://youtu.be/5EBRKgqZzcA)
+- [Семинар 6. Введение в DOM (Document Object Model)]
 - [Семинар 7. Работа с DOM]
 - [Семинар 8. Основы событий в JavaScript]
 - [Семинар 9. Работа с событиями]
