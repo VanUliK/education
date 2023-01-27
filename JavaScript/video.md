@@ -1,3 +1,5 @@
+Лекции
+
 - [Урок 1. Знакомство с JavaScript](https://youtu.be/_Sk4izRzeZc)
 - [Урок 2. Основы JavaScript](https://youtu.be/tPfSao5yIFg)
 - [Урок 3. Знакомство с функциями в JavaScript](https://youtu.be/uyUfnW2hc5Y)
