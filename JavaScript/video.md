@@ -7,7 +7,7 @@
 - [Урок 5. Объекты в JavaScript](https://youtu.be/0PAhWG0LWZE)
 - [Урок 6. Введение в DOM (Document Object Model)](https://youtu.be/yInB1_dSmDg)
 - [Урок 7. Работа с DOM](https://youtu.be/d1rFy8wbdvA)
-- [Урок 8. Основы событий в JavaScript]
+- [Урок 8. Основы событий в JavaScript](https://youtu.be/ES5gjos17ck)
 - [Урок 9. Работа с событиями]
 - [Урок 10. Шаблонизация и работа с JSON]
 - [Урок 11. Работа с медиа]
