@@ -24,7 +24,7 @@
 - [Семинар 5. Объекты в JavaScript](https://youtu.be/WvucBMLevJA)
 - [Семинар 6. Введение в DOM (Document Object Model)](https://youtu.be/TniIcvznx7Y)
 - [Семинар 7. Работа с DOM](https://youtu.be/szCFlwv5FDc)
-- [Семинар 8. Основы событий в JavaScript]
+- [Семинар 8. Основы событий в JavaScript](https://youtu.be/KY1WDLEJWM4)
 - [Семинар 9. Работа с событиями]
 - [Семинар 10. Шаблонизация и работа с JSON]
 - [Семинар 11. Работа с медиа]
