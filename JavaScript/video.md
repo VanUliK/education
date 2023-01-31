@@ -39,8 +39,8 @@
 - [Семинар 3. Знакомство с функциями в JavaScript](https://youtu.be/bpU62mSgC1E)
 - [Семинар 4. Циклы и массивы](https://youtu.be/cB0cPZhBAy8)
 - [Семинар 5. Объекты в JavaScript](https://youtu.be/5EBRKgqZzcA)
-- [Семинар 6. Введение в DOM (Document Object Model)]
-- [Семинар 7. Работа с DOM]
+- [Семинар 6. Введение в DOM (Document Object Model)](https://youtu.be/PjmVxvDFCl4)
+- [Семинар 7. Работа с DOM](https://youtu.be/yDu9TTgLM7c)
 - [Семинар 8. Основы событий в JavaScript]
 - [Семинар 9. Работа с событиями]
 - [Семинар 10. Шаблонизация и работа с JSON]
