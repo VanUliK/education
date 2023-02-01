@@ -8,7 +8,7 @@
 - [Урок 6. Введение в DOM (Document Object Model)](https://youtu.be/yInB1_dSmDg)
 - [Урок 7. Работа с DOM](https://youtu.be/d1rFy8wbdvA)
 - [Урок 8. Основы событий в JavaScript](https://youtu.be/ES5gjos17ck)
-- [Урок 9. Работа с событиями]
+- [Урок 9. Работа с событиями](https://youtu.be/15l8ac1JEO0)
 - [Урок 10. Шаблонизация и работа с JSON]
 - [Урок 11. Работа с медиа]
 - [Урок 12. Основы работы с API, итоги курса]
@@ -41,7 +41,7 @@
 - [Семинар 5. Объекты в JavaScript](https://youtu.be/5EBRKgqZzcA)
 - [Семинар 6. Введение в DOM (Document Object Model)](https://youtu.be/PjmVxvDFCl4)
 - [Семинар 7. Работа с DOM](https://youtu.be/yDu9TTgLM7c)
-- [Семинар 8. Основы событий в JavaScript]
+- [Семинар 8. Основы событий в JavaScript](https://youtu.be/K5LeURVP1Yo)
 - [Семинар 9. Работа с событиями]
 - [Семинар 10. Шаблонизация и работа с JSON]
 - [Семинар 11. Работа с медиа]
