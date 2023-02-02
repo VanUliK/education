@@ -10,6 +10,8 @@
 
 [Урок 6. Создание баг репортов. Баг трекинговые системы. Отчеты о тестировании (лекция)](https://youtu.be/5dR22GHLjpc)
 
+---
+
 [Семинар 1. Введение в тестирование (Юрий Федоров)](https://youtu.be/7hFBGwttvUo)
 
 [Семинар 1. Введение в тестирование (Наталья Сибилева)](https://youtu.be/24E5kTXOlD4)
@@ -29,3 +31,39 @@
 [Семинар 1. Основы ручного тестирования (Наталья Сибилева)](https://youtu.be/SxKKZV80ogQ)
 
 [Семинар 2. Основы ручного тестирования (Наталья Сибилева)](https://youtu.be/Wplxi2YbAo8)
+
+---
+
+[Автоматизация тестирования Web UI на Java - Урок 1. Selenium WD](https://youtu.be/CocnHLVjFKY)
+
+[Автоматизация тестирования Web UI на Java - Урок 2. Apache Maven](https://youtu.be/6DZURtR1COU)
+
+[Автоматизация тестирования Web UI на Java - Урок 3. Основы Selenium](https://youtu.be/3J6qEiY3n5U)
+
+[Автоматизация тестирования Web UI на Java - Урок 4. JUnit](https://youtu.be/ewEABjNFacY)
+
+[Автоматизация тестирования Web UI на Java - Урок 5. Основы Selenium - часть 2](https://youtu.be/GyhSOuUmVt8)
+
+[Автоматизация тестирования Web UI на Java - Урок 6. Page Object](https://youtu.be/4_-rpSWYxOk)
+
+[Автоматизация тестирования Web UI на Java - Урок 7. Allure, протоколирование](https://youtu.be/y9QxAVPPM0o)
+
+[Автоматизация тестирования Web UI на Java - Урок 8. BDD, Selenide](https://youtu.be/q7lFjDAENso)
+
+---
+
+[Тестирование веб-приложений - Урок 1. Основы реализации веб-приложений (Станислав Яковлев)](https://youtu.be/yR-OoN9DVPY)
+
+[Тестирование веб-приложений - Урок 2. HTML/CSS для тестировщиков (Станислав Яковлев)](https://youtu.be/vgMzmuyMaV8)
+
+[Тестирование веб-приложений - Урок 3. Особенности тестирования веб-приложений (Станислав Яковлев)](https://youtu.be/RGGlJ0xlU4w)
+
+[Тестирование веб-приложений - Урок 4. Браузерные движки и кроссбраузерное тестирование (Станислав Яковлев)](https://youtu.be/jp6-MrIhjm8)
+
+[Тестирование веб-приложений - Урок 5. Google Chrome DevTools (Станислав Яковлев)](https://youtu.be/bnhbi5Mhipc)
+
+[Тестирование веб-приложений - Урок 6. API. SOAP API (Станислав Яковлев)](https://youtu.be/7H-H2CpyUhQ)
+
+[Тестирование веб-приложений - Урок 7. REST API (Станислав Яковлев)](https://youtu.be/I4IKDfLZpLk)
+
+[Тестирование веб-приложений - Урок 8. Ответы на вопросы (Станислав Яковлев)](https://youtu.be/X9BLXiY1fvI)
