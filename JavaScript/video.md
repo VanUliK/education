@@ -10,7 +10,7 @@
 - [Урок 8. Основы событий в JavaScript](https://youtu.be/ES5gjos17ck)
 - [Урок 9. Работа с событиями](https://youtu.be/15l8ac1JEO0)
 - [Урок 10. Шаблонизация и работа с JSON](https://youtu.be/bmmproqyj4I)
-- [Урок 11. Работа с медиа]
+- [Урок 11. Работа с медиа](https://youtu.be/iTVm6NGxWdM)
 - [Урок 12. Основы работы с API, итоги курса]
 
 ---
