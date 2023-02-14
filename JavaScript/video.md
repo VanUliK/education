@@ -28,7 +28,7 @@
 - [Семинар 9. Работа с событиями](https://youtu.be/qI1g_V1_uvU)
 - [Семинар 10. Шаблонизация и работа с JSON](https://youtu.be/xQIz2U0s53Q)
 - [Семинар 11. Работа с медиа](https://youtu.be/nMrQXKjjmtw)
-- [Семинар 12. Основы работы с API, итоги курса]
+- [Семинар 12. Основы работы с API, итоги курса](https://youtu.be/o1ioicPmszo)
 
 ---
 
@@ -45,6 +45,6 @@
 - [Семинар 9. Работа с событиями](https://youtu.be/_rQJsGuj0CQ)
 - [Семинар 10. Шаблонизация и работа с JSON](https://youtu.be/-LoVvyN_4ZM)
 - [Семинар 11. Работа с медиа](https://youtu.be/Lmo2yBNLLWI)
-- [Семинар 12. Основы работы с API, итоги курса]
+- [Семинар 12. Основы работы с API, итоги курса](https://youtu.be/rXW-Ofc5kG4)
 
 -[Урок 1. Подготовка к итоговой аттестации](https://youtu.be/09R9IxwFIlY)
