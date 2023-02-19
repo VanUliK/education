@@ -48,3 +48,9 @@
 - [Семинар 12. Основы работы с API, итоги курса](https://youtu.be/rXW-Ofc5kG4)
 
 -[Урок 1. Подготовка к итоговой аттестации](https://youtu.be/09R9IxwFIlY)
+
+https://webcode.tools/
+https://fontawesome.com/icons/
+https://www.codewars.com/
+https://www.code.mu/ru/javascript/book/practice/
+https://neetcode.io/roadmap
